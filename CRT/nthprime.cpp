@@ -4,32 +4,33 @@ using namespace std;
 int main()
 {
 
-    int n,j=0,track;
+    int n,p=2,j=0,count=1;
     bool flag=false;
-    cout<<"Please enter the number\n";
+    cout<<"Please enter the index \n";
     cin>>n;
     
     if (n==1)
     {
-       cout<<"Yes it is a prime no." /* code */;
+       cout<<"Your "<<n<<" prime no. is "<<n+1;
     }
     else{
         //n/2 is not optimized
         //sqrt(n) is optimized
-    for (int i = 2; i <= sqrt(n); i++)
+    for (int i = 3; i <= n; i++)
     {
-        if (n % i == 0)
+        if (p % i == 0)
         {
             flag=true;
-            track=i+j;
         }
+        else {
+                count++;   
+           }   
+            ++p;
        }
-            
-        if(flag){
-            cout << "Not a prime no."<<endl;
-        }
-        else
-        cout<<"yes it is a prime no.";
+     
+       cout<<"Your "<<n<<" prime no. is "<<count;
     }   
+
+
     return 0;
 }
