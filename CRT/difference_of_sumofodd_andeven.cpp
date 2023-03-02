@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 int main()
-{
-     int n, sume = 0, sumo = 0;
+  {
+    int n, sume = 0, sumo = 0;
     int num;
     cin >> n;
     while (n > 0)

@@ -12,7 +12,7 @@ int main()
         cout<<"Invalid Input"<<endl;
         exit(main());//main program is exited
     }
-    if (n==1)
+    if (n==2)
     {
        cout<<"Yes it is a prime no." /* code */;
     }
