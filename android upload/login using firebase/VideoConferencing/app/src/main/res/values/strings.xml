@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VideoConferencing</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="connect_nnow">Connect\nNow</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="guest">guest</string>
+</resources>
