@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228652708564",
+    "project_id": "videoconference-ffe96",
+    "storage_bucket": "videoconference-ffe96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228652708564:android:4085eea3c7c866dad8c141",
+        "android_client_info": {
+          "package_name": "com.example.videoconferencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228652708564-hpkf9upoci3bji52ckifqpq8ak16ahho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZm8MzByqpOBXQnfT8jX33yftkE6SYOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228652708564-hpkf9upoci3bji52ckifqpq8ak16ahho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
