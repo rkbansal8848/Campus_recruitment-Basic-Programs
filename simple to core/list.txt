@@ -1,0 +1,76 @@
+Prime Numbers:
+Check if a number is prime or not.
+Generate all prime numbers up to a given limit.
+Find the nth prime number.
+Find the largest prime factor of a given number.
+Generate prime numbers in a given range using the Sieve of Eratosthenes algorithm.
+
+Factors:
+Find the factors of a given number.
+Check if a number is a perfect number.
+Find the greatest common divisor (GCD) of two numbers.
+Find the least common multiple (LCM) of two numbers.
+Find the number of divisors of a given number.
+
+Advanced:
+Check if a given number is a prime palindrome.
+Find the sum of prime numbers up to a given limit.
+Find the largest prime palindrome below a given number.
+Find the largest prime factor of a large number efficiently.
+Implement a prime factorization algorithm to factorize a given number.
+
+Arrays:
+Find the maximum and minimum elements in an array.
+Reverse an array in-place.
+Remove duplicates from an array.
+Find the second largest element in an array.
+Merge two sorted arrays into a single sorted array.
+
+Strings:
+Check if a string is a palindrome.
+Count the occurrence of a specific character in a string.
+Reverse words in a sentence.
+Remove whitespace from a string.
+Check if two strings are anagrams.
+
+Linked Lists:
+Insert a node at the beginning/end of a linked list.
+Delete a node from a linked list.
+Reverse a linked list.
+Detect if a linked list has a cycle.
+Find the middle element of a linked list.
+
+Recursion:
+Implement factorial using recursion.
+Calculate the nth Fibonacci number using recursion.
+Find the power of a number using recursion.
+Implement the Tower of Hanoi problem using recursion.
+Generate all possible permutations of a string using recursion.
+
+Sorting and Searching:
+Implement bubble sort, insertion sort, and selection sort algorithms.
+Implement binary search on a sorted array.
+Find the kth smallest element in an unsorted array.
+Sort an array of 0s, 1s, and 2s (Dutch National Flag problem).
+Implement a merge sort algorithm.
+
+Trees:
+Implement tree traversal algorithms: pre-order, in-order, post-order.
+Find the height of a binary tree.
+Check if a binary tree is a binary search tree.
+Find the lowest common ancestor of two nodes in a binary tree.
+Serialize and deserialize a binary tree.
+
+Graphs:
+Implement graph traversal algorithms: depth-first search (DFS) and breadth-first search (BFS).
+Check if a graph is cyclic.
+Find the shortest path between two nodes in a graph (Dijkstra's algorithm).
+Perform topological sorting of a directed graph.
+Find the minimum spanning tree of a graph (Prim's or Kruskal's algorithm).
+
+Dynamic Programming:
+Implement the Fibonacci series using dynamic programming.
+Find the longest common subsequence of two strings.
+Solve the 0/1 Knapsack problem using dynamic programming.
+Calculate the edit distance between two strings.
+Implement the coin change problem using dynamic programming.
