@@ -5,6 +5,13 @@ Find the nth prime number.
 Find the largest prime factor of a given number.
 Generate prime numbers in a given range using the Sieve of Eratosthenes algorithm.
 
+Fibonacci Series Printing:
+print the Fibonacci series up to 10 terms.
+Write a recursive function to calculate the nth Fibonacci number.
+calculate and print the sum of the Fibonacci series up to 10 terms.
+calculate and print the sum of even-valued Fibonacci numbers up to 100.
+calculate and print the sum of even-valued Fibonacci numbers up to a user-specified limit.
+
 Factors:
 Find the factors of a given number.
 Check if a number is a perfect number.
