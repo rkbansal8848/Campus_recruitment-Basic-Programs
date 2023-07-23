@@ -1,7 +1,7 @@
 // Find the nth prime number
 
 #include <iostream>
-#include <math.h>
+#include <cmath>
 using namespace std;
 
 int primecheck(int n)
